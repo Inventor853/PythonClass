@@ -1,0 +1,7 @@
+1) Take an expression
+2) Parse the expression
+    - Remove Spaces
+    - This calculator has to go through the expression and find the numbers and symbols
+    - Order of operations
+3) Do the math
+4) Return the answer
