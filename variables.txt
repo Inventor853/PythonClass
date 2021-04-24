@@ -1,0 +1,29 @@
+data types or classes:
+    str: text
+    int, float: number
+    list, tuple, range
+    dict: mapping
+    bool: True or False
+
+List
+    [1, 2, 3]
+    index: position
+
+Tuple
+    (1, 2, 3)
+
+range
+    range(6)
+    (0, 6)
+
+Dict
+    dictionary = {
+        'key': value
+    }
+    
+String
+    text = "test"
+    text = 'test'
+
+Variable Definition
+    nameOfVariable = value

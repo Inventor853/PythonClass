@@ -1,0 +1,24 @@
+Pip
+    Python Package Manager
+    MacOs
+        pip3 install nameOfModule # Recommend using this because python2 is outdated.
+        or
+        pip install nameOfModule
+    Windows
+        pip install nameOfModule
+    Git Hub: Allows users to source control remotely
+    Similarly, Pip allows users to store python scripts on the cloud
+    When a pip module is imported, you can use the functions in the scripts
+    You can make your own pip module too!
+
+Importing
+    After installing, you can import nameOfModule
+    The module will have a bunch of function or object definitions inside
+    nomeOfModule.foo() # Presuming foo is a function in the module
+    from nameOfModule import foo # You can also import * so all the functions can be called directly
+    foo()
+
+How to understand Modules
+    Go to documentation
+    Run help on python
+    Go to Youtube to find tutorials

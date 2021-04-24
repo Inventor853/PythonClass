@@ -1,0 +1,20 @@
+Function Definition
+    def foo(arguments):
+        # Write out the function
+
+    foo(arguments)
+
+Class Function
+    human.attribute # Gives you an attribute of human, for example the number of toes, but this would have to be defined earlier.
+    human.turntoturtle() # A function you can run on human, which can allow you to change the value.
+
+    Real Example
+        list.append(1) # Already defined by Python, and it inputs the number in the paranthesis to the last value in the list.
+
+Arguments
+    Tuple
+    What different variables are
+    def foo(temperature):
+        print(temperature)
+    
+    foo(temperature) # Gives the function the value of temperature
