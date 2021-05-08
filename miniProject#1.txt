@@ -1,0 +1,7 @@
+Goal
+    Define Function to ask for name
+    Print("hello") amd their name
+
+Specifications
+    Make sure that you have atleast one funciton you defined
+    Utilize atleast 1 variable

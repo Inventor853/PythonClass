@@ -1,0 +1,21 @@
+Main Purposes
+    Data analytics language
+    Very easy to learn
+    Allows for quick development
+    Artificial Intelligence
+
+Execution
+    python3 nameOfScript
+    or
+    python nameOfScript
+
+Two Versions
+    python3 
+    and 
+    python 2
+    USE python3
+
+Runtime
+    No need to compile the code
+    The code is processed as it is run
+    Slower than most languages
