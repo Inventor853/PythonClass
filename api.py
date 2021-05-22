@@ -1,7 +1,12 @@
 import requests
 
-package = requests.get("https://pokeapi.co/api/v2/pokemon/mewtwo")
+name = input("What is the name of the pokemon? ")
 
-pokemons = package.json()
+package = requests.get("https://pokeapi.co/api/v2/pokemon/" + name)
 
-print(pokemons["abilities"])
+if package.text == "Not Found":
+    print("There is no such pokemon")
+else:
+    pokemon = package.json()
+
+    print(pokemon)
