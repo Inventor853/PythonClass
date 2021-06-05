@@ -1,0 +1,1 @@
+Take an input, if the input is even, then return the number times 2, and if it is anything else (even not a number) return I love the summer as text
